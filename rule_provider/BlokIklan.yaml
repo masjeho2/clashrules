@@ -1,4 +1,8 @@
 payload:
+  # slot
+  - DOMAIN-KEYWORD,slot
+  - DOMAIN-KEYWORD,777
+  - DOMAIN-KEYWORD,gacor
   # Komikindo
   - DOMAIN-KEYWORD,scpkdiudxvduq
   - DOMAIN-KEYWORD,ashoupsu
